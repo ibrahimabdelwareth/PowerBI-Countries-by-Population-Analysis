@@ -5,12 +5,14 @@ It focuses on building an interactive Power BI dashboard that analyzes global po
 
 🚀 Project Overview
 The dashboard provides valuable insights into:
+	
 	•	Population distribution across continents and regions
 	•	Top and bottom countries by total population
 	•	Yearly growth trends and comparisons
 	•	Relationship between area, density, and population size
 
 🧠 Skills & Tools Used
+	
 	•	Power Query — for data cleaning and transformation
 	•	Power BI — for designing and visualizing the dashboard
 	•	Countries by Population Dataset — as the main data source
