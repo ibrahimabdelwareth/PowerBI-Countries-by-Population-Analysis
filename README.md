@@ -9,10 +9,12 @@ The dashboard provides valuable insights into:
 	•	Top and bottom countries by total population
 	•	Yearly growth trends and comparisons
 	•	Relationship between area, density, and population size
+
 🧠 Skills & Tools Used
 	•	Power Query — for data cleaning and transformation
 	•	Power BI — for designing and visualizing the dashboard
 	•	Countries by Population Dataset — as the main data source
+
 📊 Dashboard Preview
 <img width="1366" height="687" alt="Screenshot 2025-10-15 120637" src="https://github.com/user-attachments/assets/33309bb1-ec10-4e30-8336-d31675548cd7" />
 
