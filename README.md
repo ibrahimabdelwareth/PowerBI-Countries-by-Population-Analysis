@@ -1,5 +1,5 @@
-# PowerBI-Countries-by-Population-Analysis
-Power BI dashboard project built using the Countries by Population dataset. Includes data extraction, transformation, and visualization to provide insights into population distribution, growth trends, and regional comparisons.
+# Power bi-Countries-by-Population-Analysis
+Power bi dashboard project built using the Countries by Population dataset. Includes data extraction, transformation, and visualization to provide insights into population distribution, growth trends, and regional comparisons.
 This project is part of my Business Intelligence training at the Information Technology Institute (ITI).
 It focuses on building an interactive Power BI dashboard that analyzes global population data.
 
@@ -14,7 +14,7 @@ The dashboard provides valuable insights into:
 🧠 Skills & Tools Used
 	
 	•	Power Query — for data cleaning and transformation
-	•	Power BI — for designing and visualizing the dashboard
+	•	Power bi — for designing and visualizing the dashboard
 	•	Countries by Population Dataset — as the main data source Here is the link (https://www.worldometers.info/world-population/population-by-country/)
 
 📊 Dashboard Preview
